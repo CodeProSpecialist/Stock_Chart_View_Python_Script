@@ -1,4 +1,5 @@
 # python 3.10
+# code was tested to work in Ubuntu Linux
 
 import tkinter as tk
 from tkinter import ttk
